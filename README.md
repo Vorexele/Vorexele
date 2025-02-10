@@ -17,4 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Play DOOM](https://img.shields.io/badge/Play-DOOM-red)](https://your-github-username.github.io/doom/)
+[![DOOM Terminal](https://asciinema.org/a/example_id.svg)](https://asciinema.org/a/example_id)
+
