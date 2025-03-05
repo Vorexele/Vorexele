@@ -16,6 +16,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vorexele&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![DOOM Terminal](https://asciinema.org/a/example_id.svg)](https://asciinema.org/a/example_id)
-
